@@ -1,0 +1,1 @@
+{"version":3,"file":"current-user.selectors.d.ts","sourceRoot":"../../../projects/user-lib/src/","sources":["lib/selectors/current-user.selectors.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,YAAY,EAAE,MAAM,wBAAwB,CAAC;AAEtD,eAAO,MAAM,iBAAiB;UACZ,YAAY;kIAE7B,CAAC"}
